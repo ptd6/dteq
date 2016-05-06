@@ -1,10 +1,10 @@
 # dteq
 
-Digital Techniques for Urban Design (DTEQ) (3pts)
+##Digital Techniques for Urban Design (DTEQ) (3pts)
 
-Tuesdays, 4-6 PM, Avery 114
+**Tuesdays, 4-6 PM, Avery 114**
 
-Phu Duong, Elizabeth Barry, Kyle Hovenkotter, Michael Szivos
+**Phu Duong, Elizabeth Barry, Kyle Hovenkotter, Michael Szivos**
 
 This course introduces contemporary techniques for urban design representation that bring meaning to questions which underlie the nature of how urban designers think, work, and communicate. In conjunction with the UD studio, the primary objective of this class is to provide an entry point into digital software that explores innovative approaches for urban design. Critical discussions surrounding design methodologies begin the initial semester that requires a quick ramp-up of individual digital skills. Therefore, workshops are scheduled early in the term to immerse students into a culture of thinking and making “things” as part of an urban designer’s robust creative process. Students learn geographic information systems, 3d modeling, and video making programs while gaining experience with efficient cross-platform workflows with collaboration in mind. This class accommodates individuals with low to advanced digital skills.
 
