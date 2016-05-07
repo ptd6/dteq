@@ -1,6 +1,6 @@
-# Digital Techniques for Urban Design (DTEQ)
+# Digital Techniques (DTEQ)
 
-* Columbia University | GSAPP | Urban Design | A5428 | Summer 2016
+* Columbia University | GSAPP | Urban Design | A4528 | Summer 2016
 * Tuesdays | 4-6 PM | Avery 114
 * Professors Phu Duong, Elizabeth Barry, Kyle Hovenkotter, Michael Szivos
 * Teaching Assistant Zhou Wu
