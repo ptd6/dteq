@@ -1,2 +1,2 @@
 
-![image](https://github.com/ebarry/dteq/blob/master/Week01/images/folderview1.PNG)
+![image](dteq/Week01/images/geo_01_folderview1.PNG)
