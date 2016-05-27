@@ -1,4 +1,4 @@
-## SCHEDULE
+## Schedule
 
 **1 URBAN ARTEFACT**
 
